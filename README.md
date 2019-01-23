@@ -1,0 +1,1 @@
+# Sparta_Global_My_Responsive_Profile
