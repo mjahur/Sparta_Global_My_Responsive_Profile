@@ -1,0 +1,15 @@
+.screenshot {
+  width: 300px;
+}
+
+.tile {
+  border: 2px solid #E13A63;
+  text-align: center;
+  display: inline-block;
+  width: 30%;
+  margin: 3% 10px;
+}
+
+.tile img {
+ margin: 40px;
+}

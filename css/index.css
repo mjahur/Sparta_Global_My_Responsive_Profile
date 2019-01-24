@@ -1,0 +1,72 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+h4, h1 {
+  color: #E13A63;
+}
+
+#profile_pic {
+  border-radius: 50%;
+  display: block;
+  text-align: center;
+  margin: 50px auto 0;
+  border: 2px solid #E13A63;
+}
+
+@media only screen and (min-width: 900px)
+{
+/* Header */
+header, .academy_experience {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  border: 2px solid #E13A63;
+  clear: both;
+}
+
+
+.left {
+  width: 35%;
+  float: left;
+}
+
+.right {
+  width: 60%;
+  float: right;
+}
+
+#profile_pic {
+  border-radius: 50%;
+  display: block;
+  text-align: center;
+  margin: 50px auto;
+  border: 2px solid #E13A63;
+}
+
+/* Main */
+main {
+  display: inline-block;
+  width: auto;
+  height: auto;
+}
+
+.container {
+  width: auto;
+  height: auto;
+}
+
+.additional_skills {
+  float: left;
+}
+
+.employment_history {
+  float: right;
+}
+
+.academy_experience {
+  text-align: center;
+  padding: 10px;
+}
+
+}
